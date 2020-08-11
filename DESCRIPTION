@@ -1,0 +1,15 @@
+Package: stylebox
+Title: Mapbox Styles
+Version: 0.1.0
+Authors@R:
+    person(given = "Anthony", family = "North", role = c("aut", "cre"), email = "anthony.jl.north@gmail.com")
+Description: Mapbox style urls.
+License: MIT + file LICENSE
+URL: https://github.com/anthonynorth/stylebox
+BugReports: https://github.com/anthonynorth/stylebox/issues
+Depends:
+    R (>= 3.3.0)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
