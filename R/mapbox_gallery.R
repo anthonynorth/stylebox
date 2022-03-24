@@ -37,25 +37,25 @@ mapbox_gallery_streets_japan <- function() {
 
 #' @describeIn mapbox_gallery_styles Pencil
 #' @export
-mapbox_galley_pencil <- function() {
+mapbox_gallery_pencil <- function() {
   "mapbox://styles/mapbox/cjzoh882k2njo1crylb28iiz3"
 }
 
 #' @describeIn mapbox_gallery_styles Bubble
 #' @export
-mapbox_galley_bubble <- function() {
+mapbox_gallery_bubble <- function() {
   "mapbox://styles/mapbox/cjyknt4bl00tf1cny916vrpid"
 }
 
 #' @describeIn mapbox_gallery_styles Minimo
 #' @export
-mapbox_galley_minimo <- function() {
+mapbox_gallery_minimo <- function() {
   "mapbox://styles/mapbox/cjku6bhmo15oz2rs8p2n9s2hm"
 }
 
 #' @describeIn mapbox_gallery_styles Lè Shine
 #' @export
-mapbox_galley_le_shine <- function() {
+mapbox_gallery_le_shine <- function() {
   "mapbox://styles/mapbox/cjcunv5ae262f2sm9tfwg8i0w"
 }
 

@@ -7,10 +7,10 @@
 \alias{mapbox_gallery_blueprint}
 \alias{mapbox_gallery_frank}
 \alias{mapbox_gallery_streets_japan}
-\alias{mapbox_galley_pencil}
-\alias{mapbox_galley_bubble}
-\alias{mapbox_galley_minimo}
-\alias{mapbox_galley_le_shine}
+\alias{mapbox_gallery_pencil}
+\alias{mapbox_gallery_bubble}
+\alias{mapbox_gallery_minimo}
+\alias{mapbox_gallery_le_shine}
 \alias{mapbox_gallery_cali_terrain}
 \alias{mapbox_gallery_ice_cream}
 \alias{mapbox_gallery_north_star}
@@ -30,13 +30,13 @@ mapbox_gallery_frank()
 
 mapbox_gallery_streets_japan()
 
-mapbox_galley_pencil()
+mapbox_gallery_pencil()
 
-mapbox_galley_bubble()
+mapbox_gallery_bubble()
 
-mapbox_galley_minimo()
+mapbox_gallery_minimo()
 
-mapbox_galley_le_shine()
+mapbox_gallery_le_shine()
 
 mapbox_gallery_cali_terrain()
 
@@ -67,13 +67,13 @@ Mapbox gallery style URLs.
 
 \item \code{mapbox_gallery_streets_japan}: Mapbox Streets Japan
 
-\item \code{mapbox_galley_pencil}: Pencil
+\item \code{mapbox_gallery_pencil}: Pencil
 
-\item \code{mapbox_galley_bubble}: Bubble
+\item \code{mapbox_gallery_bubble}: Bubble
 
-\item \code{mapbox_galley_minimo}: Minimo
+\item \code{mapbox_gallery_minimo}: Minimo
 
-\item \code{mapbox_galley_le_shine}: Lè Shine
+\item \code{mapbox_gallery_le_shine}: Lè Shine
 
 \item \code{mapbox_gallery_cali_terrain}: Cali Terrain
 
