@@ -1,6 +1,6 @@
-#' Mapbox gallery styles
+#' Uber styles
 #'
-#' Mapbox gallery style URLs.
+#' Uber style URLs.
 #' @name uber_styles
 #' @seealso <https://github.com/keplergl/kepler.gl/blob/v2.3.0/src/constants/default-settings.js#L228-L263>
 NULL

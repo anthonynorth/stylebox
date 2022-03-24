@@ -6,7 +6,7 @@
 \alias{uber_light}
 \alias{uber_muted_light}
 \alias{uber_muted_night}
-\title{Mapbox gallery styles}
+\title{Uber styles}
 \usage{
 uber_dark()
 
@@ -17,7 +17,7 @@ uber_muted_light()
 uber_muted_night()
 }
 \description{
-Mapbox gallery style URLs.
+Uber style URLs.
 }
 \section{Functions}{
 \itemize{
