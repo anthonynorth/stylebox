@@ -2,92 +2,87 @@
 % Please edit documentation in R/mapbox_gallery.R
 \name{mapbox_gallery_styles}
 \alias{mapbox_gallery_styles}
-\alias{mapbox_gallery_decimal}
-\alias{mapbox_gallery_standard}
-\alias{mapbox_gallery_blueprint}
-\alias{mapbox_gallery_frank}
-\alias{mapbox_gallery_streets_japan}
-\alias{mapbox_gallery_pencil}
 \alias{mapbox_gallery_bubble}
-\alias{mapbox_gallery_minimo}
-\alias{mapbox_gallery_le_shine}
-\alias{mapbox_gallery_cali_terrain}
-\alias{mapbox_gallery_ice_cream}
-\alias{mapbox_gallery_north_star}
-\alias{mapbox_gallery_moonlight}
+\alias{mapbox_gallery_pencil}
+\alias{mapbox_gallery_streets_japan}
+\alias{mapbox_gallery_frank}
+\alias{mapbox_gallery_blueprint}
+\alias{mapbox_gallery_standard}
 \alias{mapbox_gallery_mineral}
-\alias{mapbox_gallery_moves_map}
-\alias{mapbox_gallery_swiss_ski}
+\alias{mapbox_gallery_moonlight}
+\alias{mapbox_gallery_north_star}
+\alias{mapbox_gallery_decimal}
+\alias{mapbox_gallery_ice_cream}
+\alias{mapbox_gallery_cali_terrain}
+\alias{mapbox_gallery_le_shine}
+\alias{mapbox_gallery_minimo}
+\alias{mapbox_gallery_basic}
 \title{Mapbox gallery styles}
 \usage{
-mapbox_gallery_decimal()
-
-mapbox_gallery_standard()
-
-mapbox_gallery_blueprint()
-
-mapbox_gallery_frank()
-
-mapbox_gallery_streets_japan()
+mapbox_gallery_bubble()
 
 mapbox_gallery_pencil()
 
-mapbox_gallery_bubble()
+mapbox_gallery_streets_japan()
 
-mapbox_gallery_minimo()
+mapbox_gallery_frank()
 
-mapbox_gallery_le_shine()
+mapbox_gallery_blueprint()
 
-mapbox_gallery_cali_terrain()
-
-mapbox_gallery_ice_cream()
-
-mapbox_gallery_north_star()
-
-mapbox_gallery_moonlight()
+mapbox_gallery_standard()
 
 mapbox_gallery_mineral()
 
-mapbox_gallery_moves_map()
+mapbox_gallery_moonlight()
 
-mapbox_gallery_swiss_ski()
+mapbox_gallery_north_star()
+
+mapbox_gallery_decimal()
+
+mapbox_gallery_ice_cream()
+
+mapbox_gallery_cali_terrain()
+
+mapbox_gallery_le_shine()
+
+mapbox_gallery_minimo()
+
+mapbox_gallery_basic()
 }
 \description{
 Mapbox gallery style URLs.
 }
 \section{Functions}{
 \itemize{
-\item \code{mapbox_gallery_decimal}: Decimal
-
-\item \code{mapbox_gallery_standard}: Standard
-
-\item \code{mapbox_gallery_blueprint}: Blueprint
-
-\item \code{mapbox_gallery_frank}: Frank
-
-\item \code{mapbox_gallery_streets_japan}: Mapbox Streets Japan
+\item \code{mapbox_gallery_bubble}: Bubble
 
 \item \code{mapbox_gallery_pencil}: Pencil
 
-\item \code{mapbox_gallery_bubble}: Bubble
+\item \code{mapbox_gallery_streets_japan}: Mapbox Streets Japan
 
-\item \code{mapbox_gallery_minimo}: Minimo
+\item \code{mapbox_gallery_frank}: Frank
 
-\item \code{mapbox_gallery_le_shine}: Lè Shine
+\item \code{mapbox_gallery_blueprint}: Blueprint
 
-\item \code{mapbox_gallery_cali_terrain}: Cali Terrain
-
-\item \code{mapbox_gallery_ice_cream}: Ice Cream
-
-\item \code{mapbox_gallery_north_star}: North Star
-
-\item \code{mapbox_gallery_moonlight}: Moonlight
+\item \code{mapbox_gallery_standard}: Standard
 
 \item \code{mapbox_gallery_mineral}: Mineral
 
-\item \code{mapbox_gallery_moves_map}: Moves Map
+\item \code{mapbox_gallery_moonlight}: Moonlight
 
-\item \code{mapbox_gallery_swiss_ski}: Swiss Ski
+\item \code{mapbox_gallery_north_star}: North Star
+
+\item \code{mapbox_gallery_decimal}: Decimal
+
+\item \code{mapbox_gallery_ice_cream}: Ice Cream
+
+\item \code{mapbox_gallery_cali_terrain}: Cali Terrain
+
+\item \code{mapbox_gallery_le_shine}: Lè Shine
+
+\item \code{mapbox_gallery_minimo}: Minimo
+
+\item \code{mapbox_gallery_basic}: Basic
 }}
 
 \seealso{

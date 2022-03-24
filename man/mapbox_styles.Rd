@@ -8,6 +8,10 @@
 \alias{mapbox_dark}
 \alias{mapbox_satellite}
 \alias{mapbox_satellite_streets}
+\alias{mapbox_navigation_day}
+\alias{mapbox_navigation_night}
+\alias{mapbox_navigation_guidance_night}
+\alias{mapbox_navigation_guidance_day}
 \title{Mapbox styles}
 \usage{
 mapbox_streets()
@@ -21,6 +25,14 @@ mapbox_dark()
 mapbox_satellite()
 
 mapbox_satellite_streets()
+
+mapbox_navigation_day()
+
+mapbox_navigation_night()
+
+mapbox_navigation_guidance_night()
+
+mapbox_navigation_guidance_day()
 }
 \description{
 Mapbox style URLs.
@@ -38,6 +50,14 @@ Mapbox style URLs.
 \item \code{mapbox_satellite}: Mapbox Satellite
 
 \item \code{mapbox_satellite_streets}: Mapbox Satellite Streets
+
+\item \code{mapbox_navigation_day}: Mapbox Navigation Day
+
+\item \code{mapbox_navigation_night}: Mapbox Navigation Night
+
+\item \code{mapbox_navigation_guidance_night}: Navigation Guidance Night
+
+\item \code{mapbox_navigation_guidance_day}: Navigation Guidance Day
 }}
 
 \seealso{

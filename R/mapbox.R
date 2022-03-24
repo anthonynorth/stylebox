@@ -41,3 +41,27 @@ mapbox_satellite <- function() {
 mapbox_satellite_streets <- function() {
   "mapbox://styles/mapbox/satellite-streets-v11"
 }
+
+#' @describeIn mapbox_styles Mapbox Navigation Day
+#' @export
+mapbox_navigation_day <- function() {
+  "mapbox://styles/mapbox/navigation-day-v1"
+}
+
+#' @describeIn mapbox_styles Mapbox Navigation Night
+#' @export
+mapbox_navigation_night <- function() {
+  "mapbox://styles/mapbox/navigation-night-v1"
+}
+
+#' @describeIn mapbox_styles Navigation Guidance Night
+#' @export
+mapbox_navigation_guidance_night <- function() {
+  "mapbox://styles/mapbox/navigation-guidance-night-v4"
+}
+
+#' @describeIn mapbox_styles Navigation Guidance Day
+#' @export
+mapbox_navigation_guidance_day <- function() {
+  "mapbox://styles/mapbox/navigation-guidance-day-v4"
+}
