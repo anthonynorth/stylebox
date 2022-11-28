@@ -1,6 +1,6 @@
 Package: stylebox
 Title: Mapbox Styles
-Version: 0.2.0
+Version: 0.3.0
 Authors@R:
     person(given = "Anthony", family = "North", role = c("aut", "cre"), email = "anthony.jl.north@gmail.com")
 Description: Mapbox style urls.
@@ -13,7 +13,7 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
-Suggests: 
+Suggests:
     curl,
     jsonlite,
     testthat (>= 3.0.0)

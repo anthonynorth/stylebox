@@ -9,13 +9,13 @@ NULL
 #' @describeIn mapbox_styles Mapbox Streets
 #' @export
 mapbox_streets <- function() {
-  "mapbox://styles/mapbox/streets-v11"
+  "mapbox://styles/mapbox/streets-v12"
 }
 
 #' @describeIn mapbox_styles Mapbox Outdoors
 #' @export
 mapbox_outdoors <- function() {
-  "mapbox://styles/mapbox/outdoors-v11"
+  "mapbox://styles/mapbox/outdoors-v12"
 }
 
 #' @describeIn mapbox_styles Mapbox Light
@@ -39,7 +39,7 @@ mapbox_satellite <- function() {
 #' @describeIn mapbox_styles Mapbox Satellite Streets
 #' @export
 mapbox_satellite_streets <- function() {
-  "mapbox://styles/mapbox/satellite-streets-v11"
+  "mapbox://styles/mapbox/satellite-streets-v12"
 }
 
 #' @describeIn mapbox_styles Mapbox Navigation Day
