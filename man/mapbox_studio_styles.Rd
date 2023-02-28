@@ -12,9 +12,9 @@ Mapbox studio style URLs.
 }
 \section{Functions}{
 \itemize{
-\item \code{mapbox_studio_galaxy}: Mapbox Studio Galaxy
-}}
+\item \code{mapbox_studio_galaxy()}: Mapbox Studio Galaxy
 
+}}
 \seealso{
 \url{https://studio.mapbox.com/}
 }

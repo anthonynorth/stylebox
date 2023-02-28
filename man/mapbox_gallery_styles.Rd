@@ -54,37 +54,37 @@ Mapbox gallery style URLs.
 }
 \section{Functions}{
 \itemize{
-\item \code{mapbox_gallery_bubble}: Bubble
+\item \code{mapbox_gallery_bubble()}: Bubble
 
-\item \code{mapbox_gallery_pencil}: Pencil
+\item \code{mapbox_gallery_pencil()}: Pencil
 
-\item \code{mapbox_gallery_streets_japan}: Mapbox Streets Japan
+\item \code{mapbox_gallery_streets_japan()}: Mapbox Streets Japan
 
-\item \code{mapbox_gallery_frank}: Frank
+\item \code{mapbox_gallery_frank()}: Frank
 
-\item \code{mapbox_gallery_blueprint}: Blueprint
+\item \code{mapbox_gallery_blueprint()}: Blueprint
 
-\item \code{mapbox_gallery_standard}: Standard
+\item \code{mapbox_gallery_standard()}: Standard
 
-\item \code{mapbox_gallery_mineral}: Mineral
+\item \code{mapbox_gallery_mineral()}: Mineral
 
-\item \code{mapbox_gallery_moonlight}: Moonlight
+\item \code{mapbox_gallery_moonlight()}: Moonlight
 
-\item \code{mapbox_gallery_north_star}: North Star
+\item \code{mapbox_gallery_north_star()}: North Star
 
-\item \code{mapbox_gallery_decimal}: Decimal
+\item \code{mapbox_gallery_decimal()}: Decimal
 
-\item \code{mapbox_gallery_ice_cream}: Ice Cream
+\item \code{mapbox_gallery_ice_cream()}: Ice Cream
 
-\item \code{mapbox_gallery_cali_terrain}: Cali Terrain
+\item \code{mapbox_gallery_cali_terrain()}: Cali Terrain
 
-\item \code{mapbox_gallery_le_shine}: Lè Shine
+\item \code{mapbox_gallery_le_shine()}: Lè Shine
 
-\item \code{mapbox_gallery_minimo}: Minimo
+\item \code{mapbox_gallery_minimo()}: Minimo
 
-\item \code{mapbox_gallery_basic}: Basic
+\item \code{mapbox_gallery_basic()}: Basic
+
 }}
-
 \seealso{
 \url{https://www.mapbox.com/gallery}
 }

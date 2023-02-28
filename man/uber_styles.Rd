@@ -21,15 +21,15 @@ Uber style URLs.
 }
 \section{Functions}{
 \itemize{
-\item \code{uber_dark}: Uber Dark
+\item \code{uber_dark()}: Uber Dark
 
-\item \code{uber_light}: Uber Light
+\item \code{uber_light()}: Uber Light
 
-\item \code{uber_muted_light}: Uber Muted Light
+\item \code{uber_muted_light()}: Uber Muted Light
 
-\item \code{uber_muted_night}: Uber Muted Night
+\item \code{uber_muted_night()}: Uber Muted Night
+
 }}
-
 \seealso{
 \url{https://github.com/keplergl/kepler.gl/blob/v2.3.0/src/constants/default-settings.js#L228-L263}
 }

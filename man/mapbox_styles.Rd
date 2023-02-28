@@ -14,52 +14,55 @@
 \alias{mapbox_navigation_guidance_day}
 \title{Mapbox styles}
 \usage{
-mapbox_streets()
+mapbox_streets(version = 12)
 
-mapbox_outdoors()
+mapbox_outdoors(version = 12)
 
-mapbox_light()
+mapbox_light(version = 10)
 
-mapbox_dark()
+mapbox_dark(version = 10)
 
-mapbox_satellite()
+mapbox_satellite(version = 9)
 
-mapbox_satellite_streets()
+mapbox_satellite_streets(version = 12)
 
-mapbox_navigation_day()
+mapbox_navigation_day(version = 1)
 
-mapbox_navigation_night()
+mapbox_navigation_night(version = 1)
 
-mapbox_navigation_guidance_night()
+mapbox_navigation_guidance_night(version = 4)
 
-mapbox_navigation_guidance_day()
+mapbox_navigation_guidance_day(version = 4)
+}
+\arguments{
+\item{version}{\verb{<integer>} The style version number}
 }
 \description{
 Mapbox style URLs.
 }
 \section{Functions}{
 \itemize{
-\item \code{mapbox_streets}: Mapbox Streets
+\item \code{mapbox_streets()}: Mapbox Streets
 
-\item \code{mapbox_outdoors}: Mapbox Outdoors
+\item \code{mapbox_outdoors()}: Mapbox Outdoors
 
-\item \code{mapbox_light}: Mapbox Light
+\item \code{mapbox_light()}: Mapbox Light
 
-\item \code{mapbox_dark}: Mapbox Dark
+\item \code{mapbox_dark()}: Mapbox Dark
 
-\item \code{mapbox_satellite}: Mapbox Satellite
+\item \code{mapbox_satellite()}: Mapbox Satellite
 
-\item \code{mapbox_satellite_streets}: Mapbox Satellite Streets
+\item \code{mapbox_satellite_streets()}: Mapbox Satellite Streets
 
-\item \code{mapbox_navigation_day}: Mapbox Navigation Day
+\item \code{mapbox_navigation_day()}: Mapbox Navigation Day
 
-\item \code{mapbox_navigation_night}: Mapbox Navigation Night
+\item \code{mapbox_navigation_night()}: Mapbox Navigation Night
 
-\item \code{mapbox_navigation_guidance_night}: Navigation Guidance Night
+\item \code{mapbox_navigation_guidance_night()}: Navigation Guidance Night
 
-\item \code{mapbox_navigation_guidance_day}: Navigation Guidance Day
+\item \code{mapbox_navigation_guidance_day()}: Navigation Guidance Day
+
 }}
-
 \seealso{
 \url{https://docs.mapbox.com/api/maps/#mapbox-styles}
 }
