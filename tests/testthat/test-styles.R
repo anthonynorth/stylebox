@@ -8,9 +8,13 @@ test_that("styles are valid", {
   # - is not draft
   expect_style_json <- function(style) {
     style_json <- jsonlite::fromJSON(style_to_url(style))
+    expect_type(style_json, "list")
 
-    expect_equal(style_json$visibility, "public")
-    expect_equal(style_json$draft, FALSE)
+    if ("visibility" %in% names(style_json))
+      expect_equal(style_json$visibility, "public")
+
+    if ("draft" %in% names(style_json))
+      expect_equal(style_json$draft, FALSE)
   }
 
   # mapbox
@@ -50,4 +54,12 @@ test_that("styles are valid", {
   expect_style_json(uber_light())
   expect_style_json(uber_muted_light())
   expect_style_json(uber_muted_night())
+
+  # carto
+  expect_style_json(carto_voyager())
+  expect_style_json(carto_positron())
+  expect_style_json(carto_dark_matter())
+  expect_style_json(carto_voyager_nolabels())
+  expect_style_json(carto_positron_nolabels())
+  expect_style_json(carto_dark_matter_nolabels())
 })
