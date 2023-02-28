@@ -1,6 +1,6 @@
 Package: stylebox
 Title: Mapbox Styles
-Version: 0.3.0
+Version: 0.4.0
 Authors@R:
     person(given = "Anthony", family = "North", role = c("aut", "cre"), email = "anthony.jl.north@gmail.com")
 Description: Mapbox style urls.
